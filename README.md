@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @iltar
-- 🌱 I’m currently learning computer science at uef
+- 🌱 I’m currently learning computer science at Haaga-Helia!
 - 📫 How to reach me: ilta.riikonen@gmail.com
